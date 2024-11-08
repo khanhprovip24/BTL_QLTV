@@ -36,10 +36,8 @@ namespace GUI
             {
                 MessageBox.Show("Đăng nhập thành công");
                 this.Hide();
-                Form1 f = new Form1(result);
-                f.ShowDialog();
-                this.Show();
-                resetTextboxs();
+                formMain f = new formMain(result);
+                f.Show();
             }
             else
             {

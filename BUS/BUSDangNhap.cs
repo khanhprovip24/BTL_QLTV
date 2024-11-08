@@ -29,7 +29,7 @@ namespace BUS
                 if (user.TENDN == username )
                 {
                     if(user.MATKHAU == password) { return user.MATK; }
-                    return user.MATK;
+                    
                 }
             }   
             return -1;
