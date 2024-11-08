@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F690A1AC-C2F4-47A4-B0C6-37F84E00AFE7}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F690A1AC-C2F4-47A4-B0C6-37F84E00AFE7}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD172F0-1670-447F-B59B-757ED054ADD8}|DTO\\DTO.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2FD172F0-1670-447F-B59B-757ED054ADD8}|DTO\\DTO.csproj|solutionrelative:dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F690A1AC-C2F4-47A4-B0C6-37F84E00AFE7}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\dal\\daltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F690A1AC-C2F4-47A4-B0C6-37F84E00AFE7}|DAL\\DAL.csproj|solutionrelative:dal\\daltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A7CEB1-BD84-4C30-B0BF-D6AE55A214EF}|BUS\\BUS.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\bus\\bustaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A7CEB1-BD84-4C30-B0BF-D6AE55A214EF}|BUS\\BUS.csproj|solutionrelative:bus\\bustaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A7CEB1-BD84-4C30-B0BF-D6AE55A214EF}|BUS\\BUS.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\bus\\busdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A7CEB1-BD84-4C30-B0BF-D6AE55A214EF}|BUS\\BUS.csproj|solutionrelative:bus\\busdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|solutionrelative:gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|c:\\users\\dell\\source\\repos\\qltv_c#_btl\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4139EBE7-CE66-4D44-AB22-EE326083E5FA}|GUI\\GUI.csproj|solutionrelative:gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\App.config",
+              "RelativeDocumentMoniker": "GUI\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\App.config",
+              "RelativeToolTip": "GUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T17:35:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DTO\\App.config",
+              "RelativeDocumentMoniker": "DTO\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DTO\\App.config",
+              "RelativeToolTip": "DTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T17:32:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\formLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\formLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\formLogin.cs",
+              "RelativeToolTip": "GUI\\formLogin.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvyAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:13:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\formLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\formLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\GUI\\formLogin.cs [Design]",
+              "RelativeToolTip": "GUI\\formLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:13:05.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T17:12:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUSTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\BUS\\BUSTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BUS\\BUSTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\BUS\\BUSTaiKhoan.cs",
+              "RelativeToolTip": "BUS\\BUSTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:11:50.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DAL\\DALTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\DALTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\DAL\\DALTaiKhoan.cs",
+              "RelativeToolTip": "DAL\\DALTaiKhoan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:11:46.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BUSDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\BUS\\BUSDangNhap.cs",
+              "RelativeDocumentMoniker": "BUS\\BUSDangNhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLTV_C#_BTL\\BUS\\BUSDangNhap.cs",
+              "RelativeToolTip": "BUS\\BUSDangNhap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:10:46.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
